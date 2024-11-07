@@ -277,13 +277,14 @@ public class ChatServiceImpl extends UnicastRemoteObject implements ChatInterfac
         }
         messages.add(sender+" : "+message);
         rm.setMessages(messages);
+        Room finalRm = rm;
         List<User> deadUsers = new ArrayList<>(rm.getLoggedInUsers().stream()
                 .filter(e -> {
                     try {
                         e.getClientChat().receiveMessage(message, sender);
                         return false;
                     } catch (RemoteException ex) {
-
+                        finalRm.getLoggedInUsers().remove(e);
                         return true;
 
                     }
