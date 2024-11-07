@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e25cce4c-cf2f-4ddb-9eec-8aa7eed92b1a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/Data/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/Data/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/Data/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/Data/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/Data/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/Data/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/SharedInterface/ChatInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/SharedInterface/ChatInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/org/example/AddRoomForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/org/example/AddRoomForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/org/example/HomeForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/org/example/HomeForm.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/org/example/HomeForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/org/example/HomeForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/org/example/ItemPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/org/example/ItemPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/org/example/RegistrationForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/org/example/RegistrationForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/org/example/RemoveRoomForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/org/example/RemoveRoomForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/org/example/ShowRoomsForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/org/example/ShowRoomsForm.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/org/example/ShowRoomsForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/src/main/java/org/example/ShowRoomsForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/Data/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/Data/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/Data/Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/Data/Room.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/Data/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/Data/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/SharedInterface/ChatInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/SharedInterface/ChatInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/AddRoomForm$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/AddRoomForm$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/AddRoomForm$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/AddRoomForm$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/AddRoomForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/AddRoomForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/HomeForm$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/HomeForm$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/HomeForm$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/HomeForm$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/HomeForm$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/HomeForm$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/HomeForm$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/HomeForm$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/HomeForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/HomeForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/ItemPanel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/ItemPanel$ItemClickListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/ItemPanel$ItemClickListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/ItemPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/ItemPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/RegistrationForm$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/RegistrationForm$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/RegistrationForm$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/RegistrationForm$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/RegistrationForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/RegistrationForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/RemoveRoomForm$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/RemoveRoomForm$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/RemoveRoomForm$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/RemoveRoomForm$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/RemoveRoomForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/RemoveRoomForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/ShowRoomsForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/Client_Side/target/classes/org/example/ShowRoomsForm.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XqPpXPKus52LXh4WBh7I7Wfsu0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dell/IdeaProjects/Chat_App/ChatServer&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ChatServer" />
+      <module name="ChatServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChatServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e25cce4c-cf2f-4ddb-9eec-8aa7eed92b1a" name="Changes" comment="" />
+      <created>1699353823525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699353823525</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

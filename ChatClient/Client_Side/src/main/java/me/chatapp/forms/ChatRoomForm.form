@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="me.chatapp.forms.ChatRoomForm">
+  <grid id="27dc6" binding="roomPanel" layout-manager="GridLayoutManager" row-count="7" column-count="6" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties>
+      <background color="-16777216"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <vspacer id="3488b">
+        <constraints>
+          <grid row="3" column="0" row-span="4" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <component id="bf47f" class="javax.swing.JButton" binding="showAllUsersButton" default-binding="true">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="3" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-14145238"/>
+          <font name="Kristen ITC" size="18" style="1"/>
+          <foreground color="-392967"/>
+          <text value="All users"/>
+        </properties>
+      </component>
+      <component id="2184a" class="javax.swing.JButton" binding="removeUserButton" default-binding="true">
+        <constraints>
+          <grid row="2" column="3" row-span="1" col-span="3" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-14145238"/>
+          <font name="Kristen ITC" size="18" style="1"/>
+          <foreground color="-392967"/>
+          <text value="Delete User"/>
+        </properties>
+      </component>
+      <component id="df721" class="javax.swing.JButton" binding="leaveRoomButton" default-binding="true">
+        <constraints>
+          <grid row="4" column="2" row-span="1" col-span="3" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-14145238"/>
+          <font name="Kristen ITC" size="18" style="1"/>
+          <foreground color="-1769448"/>
+          <text value="Leave room"/>
+        </properties>
+      </component>
+      <component id="7830e" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="5" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="b9d9c" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="5" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Kristen ITC" size="48" style="1"/>
+          <foreground color="-392967"/>
+          <text value="Room Manager"/>
+        </properties>
+      </component>
+      <component id="62fe0" class="javax.swing.JButton" binding="addUserButton" default-binding="true">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-14145238"/>
+          <font name="Kristen ITC" size="18" style="1"/>
+          <foreground color="-392967"/>
+          <text value="Add User"/>
+        </properties>
+      </component>
+      <component id="da1ca" class="javax.swing.JButton" binding="startChatButton" default-binding="true">
+        <constraints>
+          <grid row="3" column="4" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-14145238"/>
+          <font name="Kristen ITC" size="18" style="1"/>
+          <foreground color="-392967"/>
+          <text value="Start Chat"/>
+        </properties>
+      </component>
+      <component id="8ce5b" class="javax.swing.JButton" binding="cancelButton" default-binding="true">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-14145238"/>
+          <font name="Kristen ITC" size="18" style="1"/>
+          <foreground color="-369918"/>
+          <text value="Cancel"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
