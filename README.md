@@ -6,7 +6,7 @@ A Java-based chat application developed using Remote Method Invocation (RMI) to 
 
 ## Project Structure
 
-The project is organized into two main applications, each with a cleanly separated package structure for easier understanding and maintenance:
+The project is organized into two main applications, each with a cleanly separated package structure for easier understanding and maintenance
 
 ### Structure Overview
 
